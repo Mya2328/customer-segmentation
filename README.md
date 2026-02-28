@@ -23,5 +23,4 @@ Segment customers based on purchasing behaviour to identify high-value customers
 
 ## Files
 - notebooks/customer_segmentation.ipynb
-- sql/queries.sql
-- data/online_retail.csv
+- data/customer_segments.csv
